@@ -11,6 +11,21 @@ requires-python = ">=3.11"
 license = "AGPL-3.0-only"
 license-files = ["LICENSE"]
 authors = [{ name = "Zain Dana Harper", email = "zaindharper@gmail.com" }]
+keywords = ["public-domain", "open-access", "internet-archive", "wikimedia-commons", "creative-commons", "archive-search", "stock-footage", "textures", "licensing", "media"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
+  "Intended Audience :: Developers",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.11",
+  "Topic :: Multimedia",
+  "Topic :: Multimedia :: Video",
+  "Topic :: Multimedia :: Graphics",
+  "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
 dependencies = []
 
 [project.optional-dependencies]
@@ -20,7 +35,9 @@ media = ["imageio-ffmpeg"]
 open-archives = "openarchives.cli:main"
 
 [project.urls]
+Homepage = "https://github.com/HarperZ9/open-archives"
 Source = "https://github.com/HarperZ9/open-archives"
+Issues = "https://github.com/HarperZ9/open-archives/issues"
 
 [tool.setuptools.packages.find]
 include = ["openarchives*"]
