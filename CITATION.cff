@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "open-archives"
+abstract: "Search free archives and museum collections with one query, download what you pick, and cut clips, loops and textures from it. Every item is tagged with its licence."
+version: "0.1.0"
+authors:
+  - family-names: "Harper"
+    given-names: "Zain Dana"
+    orcid: "https://orcid.org/0009-0001-7175-5393"
+repository-code: "https://github.com/HarperZ9/open-archives"
+url: "https://github.com/HarperZ9/open-archives"
+license: AGPL-3.0-only
+keywords:
+  - agpl
+  - cli
+  - creative-commons
+  - internet-archive
+  - licensing
+  - media-library
+  - open-access
+  - public-domain
