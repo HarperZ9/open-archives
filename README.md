@@ -3,23 +3,20 @@
 [![tests](https://github.com/HarperZ9/open-archives/actions/workflows/ci.yml/badge.svg)](https://github.com/HarperZ9/open-archives/actions/workflows/ci.yml)
 [![license](https://img.shields.io/badge/license-AGPL--3.0--only-e6e1d6?style=flat-square&labelColor=1a1712)](LICENSE)
 
-open-archives searches free, open archives with one query, downloads what you pick with a receipt for every file, and turns cleared material into assets. It records where each item came from, what licence it carries and what you may do with it. Anything unclear stays reference only.
-
-Use it for period reference images, b-roll and period sound for films, public domain posters and broadcasts, and textures, sounds and fonts for game and design work.
-
-Python 3.11 or later, standard library only. Media work uses an ffmpeg binary: the tool finds it in `OPEN_ARCHIVES_FFMPEG`, then in the `imageio_ffmpeg` package if installed, then on `PATH`.
-
-## Run it
+open-archives searches free archives and museum collections with one query, from archive.org and Wikimedia Commons to the Met and NASA, and downloads the items you pick. It also cuts clips, audio loops and tiling textures from what you download. Each item is tagged with its licence, so you can see what you may ship and what is for reference only.
 
 ```
 git clone https://github.com/HarperZ9/open-archives
 cd open-archives
-python -m openarchives sources --probe
 python -m openarchives search "cotton mill" --media image --from 1837 --to 1955 --save mills.json
 python -m openarchives gather --results mills.json --pick 1,3,4 --max-mb 60 --sheet
 ```
 
-`search` prints a ranked table: score, source, media type, year, licence class, rights basis and title. `gather` downloads, hashes and writes a receipt, and `--sheet` adds contact sheets.
+`search` prints a ranked table: score, source, media type, year, licence class, rights basis and title. `gather` downloads the picks and writes a receipt listing each file, and `--sheet` adds contact sheets.
+
+Use it for period reference images, b-roll and period sound for films, public domain posters and broadcasts, and textures, sounds and fonts for game and design work.
+
+Python 3.11 or later, standard library only. Media work uses an ffmpeg binary: the tool finds it in `OPEN_ARCHIVES_FFMPEG`, then in the `imageio_ffmpeg` package if installed, then on `PATH`. Run `python -m openarchives sources --probe` to see which sources answer from your machine.
 
 ## Commands
 
@@ -88,7 +85,7 @@ Licence classes: `pd`, `cc0`, `cc-by`, `cc-by-sa`, `nc`, `nd`, `ofl`, `permissiv
 | `fair-use` | Commentary or critique in an explainer. Set by hand with a written reason and the intended use. |
 | `reference-only` | Everything else: NC, ND, no known restrictions, unknown, in copyright. Study only. |
 
-The gate is strict on purpose. "No known restrictions" is a library's statement about what it knows, and it grants nothing, so such an item stays reference only until a person checks it and records a basis with `rights`. Licence words found on a web page are kept as hints and never clear anything: a page footer usually covers the page text and says nothing about the media on it.
+Items marked "no known restrictions" stay reference only until you check them and record a basis with `rights`. Licence words found on a web page by `fetch` are kept as hints and do not clear an item, since a page footer usually covers the page text and not its media.
 
 A derived asset takes the most restrictive basis among its inputs.
 
@@ -135,7 +132,7 @@ Controls, 2026-10-23:
 | 1926 78rpm side, pitched up a semitone with EQ | 0.87 | fail |
 | Another side by the same orchestra from the same session; a side by a different band | 0.56, 0.55 | pass |
 
-Limits. The gate catches reproduction of a specific source. It cannot judge whether a new work copies protected expression in a looser way, such as a character design redrawn from memory. Real independent photographs scored up to 0.77 against a 0.85 threshold, a narrower margin than the synthetic controls gave, so a strong family resemblance between two real photographs could come close. Treat a pass as evidence for a reviewer; legal clearance is a separate judgement.
+The gate checks for reproduction of a specific source. It does not catch looser copying, such as a character redrawn from memory, and a pass is not legal clearance. Independent real photographs scored up to 0.77 against the 0.85 image threshold, so two closely similar photographs can land near it.
 
 ## Tests
 
