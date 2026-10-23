@@ -1,0 +1,86 @@
+{
+ "results": [
+  {
+   "id": 786,
+   "title": "Hard Times",
+   "authors": [
+    {
+     "name": "Dickens, Charles",
+     "birth_year": 1812,
+     "death_year": 1870
+    }
+   ],
+   "summaries": [
+    "\"Hard Times\" by Charles Dickens is a novel first published in 1854. Set in the fictional industrial town of Coketown, it satirizes the harsh social and economic conditions of Victorian England. The story follows the rigid utilitarian Thomas Gradgrind, his children Louisa and Tom, the boastful factory owner Josiah Bounderby, and the struggling mill worker Stephen Blackpool. Through their intersecting lives, Dickens examines the grinding divide between wealthy capitalists and exploited workers in post-Industrial Revolution society, questioning whether facts alone can sustain human happiness. (This is an automatically generated summary.)"
+   ],
+   "editors": [],
+   "translators": [],
+   "subjects": [
+    "Domestic fiction",
+    "Education -- Fiction",
+    "England -- Fiction",
+    "Political fiction",
+    "Social problems -- Fiction",
+    "Utilitarianism -- Fiction"
+   ],
+   "bookshelves": [
+    "Category: British Literature",
+    "Category: Novels"
+   ],
+   "languages": [
+    "en"
+   ],
+   "copyright": false,
+   "media_type": "Text",
+   "formats": {
+    "text/html": "https://www.gutenberg.org/ebooks/786.html.images",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/786.epub3.images",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/786.kf8.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/786.rdf",
+    "image/jpeg": "https://www.gutenberg.org/cache/epub/786/pg786.cover.medium.jpg",
+    "application/octet-stream": "https://www.gutenberg.org/cache/epub/786/pg786-h.zip",
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/786.txt.utf-8",
+    "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/786/786-0.txt"
+   },
+   "download_count": 8058
+  },
+  {
+   "id": 9709,
+   "title": "Hard Times",
+   "authors": [
+    {
+     "name": "Dickens, Charles",
+     "birth_year": 1812,
+     "death_year": 1870
+    }
+   ],
+   "summaries": [],
+   "editors": [],
+   "translators": [],
+   "subjects": [
+    "Domestic fiction",
+    "Education -- Fiction",
+    "England -- Fiction",
+    "England -- Social life and customs -- 19th century -- Fiction",
+    "Political fiction",
+    "Social problems -- Fiction",
+    "Utilitarianism -- Fiction"
+   ],
+   "bookshelves": [],
+   "languages": [
+    "en"
+   ],
+   "copyright": true,
+   "media_type": "Sound",
+   "formats": {
+    "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/9709/9709-readme.txt",
+    "text/html": "https://www.gutenberg.org/files/9709/9709-index.htm",
+    "audio/mpeg": "https://www.gutenberg.org/files/9709/mp3/9709-000.mp3",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/9709.rdf",
+    "image/jpeg": "https://www.gutenberg.org/cache/epub/9709/pg9709.cover.medium.jpg",
+    "application/octet-stream": "https://www.gutenberg.org/files/9709/9709-mp3.zip"
+   },
+   "download_count": 1428
+  }
+ ]
+}

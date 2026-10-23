@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "open-archives"
+version = "0.1.0"
+description = "Search open archives with one query, download with a receipt per file, and track the rights basis of every asset."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "AGPL-3.0-only"
+license-files = ["LICENSE"]
+authors = [{ name = "Zain Dana Harper", email = "zaindharper@gmail.com" }]
+dependencies = []
+
+[project.optional-dependencies]
+media = ["imageio-ffmpeg"]
+
+[project.scripts]
+open-archives = "openarchives.cli:main"
+
+[project.urls]
+Source = "https://github.com/HarperZ9/open-archives"
+
+[tool.setuptools.packages.find]
+include = ["openarchives*"]

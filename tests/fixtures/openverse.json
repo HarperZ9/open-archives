@@ -1,0 +1,180 @@
+{
+ "result_count": 240,
+ "page_count": 80,
+ "page_size": 3,
+ "page": 1,
+ "results": [
+  {
+   "id": "12975e2f-3a0d-4100-942a-e22302f6da80",
+   "title": "mill town",
+   "indexed_on": "2018-12-21T14:15:26.848497Z",
+   "foreign_landing_url": "https://www.flickr.com/photos/58621196@N05/7546798998",
+   "url": "https://live.staticflickr.com/7271/7546798998_8624540218_b.jpg",
+   "creator": "brdonovan",
+   "creator_url": "https://www.flickr.com/photos/58621196@N05",
+   "license": "by-sa",
+   "license_version": "2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "provider": "flickr",
+   "source": "flickr",
+   "category": null,
+   "filesize": null,
+   "filetype": null,
+   "tags": [
+    {
+     "name": "mill",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "town",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    }
+   ],
+   "attribution": "\"mill town\" by brdonovan is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+   "fields_matched": [
+    "title",
+    "tags.name"
+   ],
+   "mature": false,
+   "height": 683,
+   "width": 1024,
+   "thumbnail": "https://api.openverse.org/v1/images/12975e2f-3a0d-4100-942a-e22302f6da80/thumb/",
+   "detail_url": "https://api.openverse.org/v1/images/12975e2f-3a0d-4100-942a-e22302f6da80/",
+   "related_url": "https://api.openverse.org/v1/images/12975e2f-3a0d-4100-942a-e22302f6da80/related/",
+   "unstable__sensitivity": []
+  },
+  {
+   "id": "82d44837-8199-411d-8613-ddfeb345c796",
+   "title": "Mill Towns 02191303",
+   "indexed_on": "2018-11-09T02:22:56.756031Z",
+   "foreign_landing_url": "https://www.flickr.com/photos/69345640@N00/8491148766",
+   "url": "https://live.staticflickr.com/8226/8491148766_4b3ea8798e_b.jpg",
+   "creator": "Sunset Noir",
+   "creator_url": "https://www.flickr.com/photos/69345640@N00",
+   "license": "by-nc-nd",
+   "license_version": "2.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+   "provider": "flickr",
+   "source": "flickr",
+   "category": null,
+   "filesize": null,
+   "filetype": null,
+   "tags": [
+    {
+     "name": "industry",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "mill",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "reflection",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "square",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    }
+   ],
+   "attribution": "\"Mill Towns 02191303\" by Sunset Noir is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+   "fields_matched": [
+    "title",
+    "tags.name"
+   ],
+   "mature": false,
+   "height": 1024,
+   "width": 1024,
+   "thumbnail": "https://api.openverse.org/v1/images/82d44837-8199-411d-8613-ddfeb345c796/thumb/",
+   "detail_url": "https://api.openverse.org/v1/images/82d44837-8199-411d-8613-ddfeb345c796/",
+   "related_url": "https://api.openverse.org/v1/images/82d44837-8199-411d-8613-ddfeb345c796/related/",
+   "unstable__sensitivity": []
+  },
+  {
+   "id": "991c7ff7-5124-4c43-b524-42494560726d",
+   "title": "The Crucible: Houses of the mill town overlooking the Pittsburgh Crucible Steel Company in Midland, Pennsylvania, January 1941.",
+   "indexed_on": "2020-04-30T09:38:27.909931Z",
+   "foreign_landing_url": "https://www.flickr.com/photos/157979053@N04/49310432703",
+   "url": "https://live.staticflickr.com/65535/49310432703_a91f84db03_b.jpg",
+   "creator": "polkbritton",
+   "creator_url": "https://www.flickr.com/photos/157979053@N04",
+   "license": "pdm",
+   "license_version": "1.0",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "provider": "flickr",
+   "source": "flickr",
+   "category": null,
+   "filesize": null,
+   "filetype": null,
+   "tags": [
+    {
+     "name": "1940s",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "classiccars",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "fsaowi",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "industry",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "jackdelano",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "labor",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "libraryofcongresscollections",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "milltowns",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "pennsylvaniahistory",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    },
+    {
+     "name": "streetphotography",
+     "accuracy": null,
+     "unstable__provider": "flickr"
+    }
+   ],
+   "attribution": "\"The Crucible: Houses of the mill town overlooking the Pittsburgh Crucible Steel Company in Midland, Pennsylvania, January 1941.\" by polkbritton is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+   "fields_matched": [
+    "title"
+   ],
+   "mature": false,
+   "height": 760,
+   "width": 1024,
+   "thumbnail": "https://api.openverse.org/v1/images/991c7ff7-5124-4c43-b524-42494560726d/thumb/",
+   "detail_url": "https://api.openverse.org/v1/images/991c7ff7-5124-4c43-b524-42494560726d/",
+   "related_url": "https://api.openverse.org/v1/images/991c7ff7-5124-4c43-b524-42494560726d/related/",
+   "unstable__sensitivity": []
+  }
+ ]
+}

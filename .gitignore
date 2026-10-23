@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.envrc
+.envrc.local
+node_modules/
+dist/
+CLAUDE.local.md
+__pycache__/
+*.pyc
+build/
+*.egg-info/
+archive-library/
+receipts/

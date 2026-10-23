@@ -1,0 +1,234 @@
+{
+ "type": "ResultList",
+ "pageSize": 3,
+ "totalPages": 187,
+ "totalResults": 560,
+ "results": [
+  {
+   "locations": [
+    {
+     "url": "https://iiif.wellcomecollection.org/image/V0024513/info.json",
+     "credit": "Wellcome Collection",
+     "license": {
+      "id": "pdm",
+      "type": "License",
+      "label": "Public Domain Mark",
+      "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+     },
+     "accessConditions": [
+      {
+       "method": {
+        "id": "view-online",
+        "type": "AccessMethod",
+        "label": "View online"
+       },
+       "status": {
+        "id": "open",
+        "type": "AccessStatus",
+        "label": "Open"
+       },
+       "type": "AccessCondition"
+      }
+     ],
+     "locationType": {
+      "id": "iiif-image",
+      "type": "LocationType",
+      "label": "IIIF Image API"
+     },
+     "type": "DigitalLocation"
+    }
+   ],
+   "source": {
+    "id": "ydar52uy",
+    "title": "A hand-mill. Etching.",
+    "type": "Work"
+   },
+   "aspectRatio": 1.0869565217391304,
+   "thumbnail": {
+    "url": "https://iiif.wellcomecollection.org/image/V0024513/info.json",
+    "credit": "Wellcome Collection",
+    "license": {
+     "id": "pdm",
+     "type": "License",
+     "label": "Public Domain Mark",
+     "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+    },
+    "accessConditions": [
+     {
+      "method": {
+       "id": "view-online",
+       "type": "AccessMethod",
+       "label": "View online"
+      },
+      "status": {
+       "id": "open",
+       "type": "AccessStatus",
+       "label": "Open"
+      },
+      "type": "AccessCondition"
+     }
+    ],
+    "locationType": {
+     "id": "iiif-image",
+     "type": "LocationType",
+     "label": "IIIF Image API"
+    },
+    "type": "DigitalLocation"
+   },
+   "averageColor": "#c0b8b0",
+   "id": "ywzvngcn",
+   "type": "Image"
+  },
+  {
+   "locations": [
+    {
+     "url": "https://iiif.wellcomecollection.org/image/V0024525/info.json",
+     "credit": "Wellcome Collection",
+     "license": {
+      "id": "pdm",
+      "type": "License",
+      "label": "Public Domain Mark",
+      "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+     },
+     "accessConditions": [
+      {
+       "method": {
+        "id": "view-online",
+        "type": "AccessMethod",
+        "label": "View online"
+       },
+       "status": {
+        "id": "open",
+        "type": "AccessStatus",
+        "label": "Open"
+       },
+       "type": "AccessCondition"
+      }
+     ],
+     "locationType": {
+      "id": "iiif-image",
+      "type": "LocationType",
+      "label": "IIIF Image API"
+     },
+     "type": "DigitalLocation"
+    }
+   ],
+   "source": {
+    "id": "aefrk8r3",
+    "title": "Pigments: a mill for grinding colours, and an indigo grinding mill. Engraving by H. Mutlow.",
+    "type": "Work"
+   },
+   "aspectRatio": 1.593625498007968,
+   "thumbnail": {
+    "url": "https://iiif.wellcomecollection.org/image/V0024525/info.json",
+    "credit": "Wellcome Collection",
+    "license": {
+     "id": "pdm",
+     "type": "License",
+     "label": "Public Domain Mark",
+     "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+    },
+    "accessConditions": [
+     {
+      "method": {
+       "id": "view-online",
+       "type": "AccessMethod",
+       "label": "View online"
+      },
+      "status": {
+       "id": "open",
+       "type": "AccessStatus",
+       "label": "Open"
+      },
+      "type": "AccessCondition"
+     }
+    ],
+    "locationType": {
+     "id": "iiif-image",
+     "type": "LocationType",
+     "label": "IIIF Image API"
+    },
+    "type": "DigitalLocation"
+   },
+   "averageColor": "#b4a7a0",
+   "id": "n6wfv28h",
+   "type": "Image"
+  },
+  {
+   "locations": [
+    {
+     "url": "https://iiif.wellcomecollection.org/image/V0024535/info.json",
+     "credit": "Wellcome Collection",
+     "license": {
+      "id": "pdm",
+      "type": "License",
+      "label": "Public Domain Mark",
+      "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+     },
+     "accessConditions": [
+      {
+       "method": {
+        "id": "view-online",
+        "type": "AccessMethod",
+        "label": "View online"
+       },
+       "status": {
+        "id": "open",
+        "type": "AccessStatus",
+        "label": "Open"
+       },
+       "type": "AccessCondition"
+      }
+     ],
+     "locationType": {
+      "id": "iiif-image",
+      "type": "LocationType",
+      "label": "IIIF Image API"
+     },
+     "type": "DigitalLocation"
+    }
+   ],
+   "source": {
+    "id": "a3r7ut74",
+    "title": "A wind-operated mill (top), and the same mill water-operated (below). Coloured aquatint by V. Raineri.",
+    "type": "Work"
+   },
+   "aspectRatio": 0.6675,
+   "thumbnail": {
+    "url": "https://iiif.wellcomecollection.org/image/V0024535/info.json",
+    "credit": "Wellcome Collection",
+    "license": {
+     "id": "pdm",
+     "type": "License",
+     "label": "Public Domain Mark",
+     "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+    },
+    "accessConditions": [
+     {
+      "method": {
+       "id": "view-online",
+       "type": "AccessMethod",
+       "label": "View online"
+      },
+      "status": {
+       "id": "open",
+       "type": "AccessStatus",
+       "label": "Open"
+      },
+      "type": "AccessCondition"
+     }
+    ],
+    "locationType": {
+     "id": "iiif-image",
+     "type": "LocationType",
+     "label": "IIIF Image API"
+    },
+    "type": "DigitalLocation"
+   },
+   "averageColor": "#ae9f91",
+   "id": "suce9mh8",
+   "type": "Image"
+  }
+ ],
+ "nextPage": "https://api.wellcomecollection.org/catalogue/v2/images?pageSize=3&query=mill&page=2"
+}

@@ -1,0 +1,330 @@
+{
+ "batchcomplete": "",
+ "continue": {
+  "gsroffset": 3,
+  "continue": "gsroffset||"
+ },
+ "query": {
+  "pages": {
+   "8386342": {
+    "pageid": 8386342,
+    "ns": 6,
+    "title": "File:Cotton mill.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 560390,
+      "width": 885,
+      "height": 633,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cotton_mill.jpg/500px-Cotton_mill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 400,
+      "thumbheight": 286,
+      "responsiveUrls": {
+       "2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cotton_mill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cotton_mill.jpg/500px-Cotton_mill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "decoding": "async",
+       "loading": "lazy",
+       "width": 400,
+       "height": 286,
+       "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cotton_mill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cotton_mill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cotton_mill.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8386342",
+      "extmetadata": {
+       "DateTime": {
+        "value": "2009-11-09 08:29:25",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+       },
+       "ObjectName": {
+        "value": "Cotton mill",
+        "source": "mediawiki-metadata"
+       },
+       "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+       },
+       "Categories": {
+        "value": "PD US|Weaving shed interiors|Flat belt drives|Cotton weaving mills",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "Tkac\u00ed stroje poh\u00e1n\u011bn\u00e9 p\u0159es transmise parn\u00edm strojem",
+        "source": "commons-desc-page"
+       },
+       "DateTimeOriginal": {
+        "value": "1914",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "Plate from <i>More Pictures of British History</i>, London, 1914, p.61. Publisher:   London. Adam and Charles Black. 1914",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "E.L. Hoskyn",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg"
+     }
+    ]
+   },
+   "24208132": {
+    "pageid": 24208132,
+    "ns": 6,
+    "title": "File:The British Cotton Industry- Everyday Life at a British Cotton Mill, Lancashire, England, UK, 1945 D26001.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 90084,
+      "width": 776,
+      "height": 800,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg/500px-The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 400,
+      "thumbheight": 412,
+      "responsiveUrls": {
+       "2": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg/500px-The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "decoding": "async",
+       "loading": "lazy",
+       "width": 400,
+       "height": 412,
+       "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill,_Lancashire,_England,_UK,_1945_D26001.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24208132",
+      "extmetadata": {
+       "DateTime": {
+        "value": "2013-01-26 08:08:58",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+       },
+       "ObjectName": {
+        "value": "The British Cotton Industry- Everyday Life at a British Cotton Mill, Lancashire, England, UK, 1945 D26001",
+        "source": "mediawiki-metadata"
+       },
+       "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+       },
+       "Categories": {
+        "value": "Images uploaded by F\u00e6|Artworks without Wikidata item|UK Government artistic works|PD-scan (PD-UKGov)|1945 in Lancashire|Women at work in the United Kingdom in World War II|Baskets in the United Kingdom|Ministry of Information Second World War Official Collection|Cotton industry in Lancashire",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Artist": {
+        "value": "<div class=\"fn value\">\nMinistry of Information Photo Division Photographer</div>",
+        "source": "commons-desc-page"
+       },
+       "ImageDescription": {
+        "value": "<i>The British Cotton Industry- Everyday Life at a British Cotton Mill, Lancashire, England, UK, 1945</i><br>\n<dl><dd>Cotton worker Lilian Alston fits cones of yarn into the V-shaped creel of the warping frame at a cotton mill, somewhere in Lancashire.  According to the original caption, this is the first stage in the job of weaving the yarn into cloth.  Rows and rows of reels can be seen on the frames behind her, as can a large wheeled basket full of yarn.</dd></dl>",
+        "source": "commons-desc-page"
+       },
+       "DateTimeOriginal": {
+        "value": "between 1939 and 1945<div style=\"display: none;\">date QS:P571,+1950-00-00T00:00:00Z/7,P1319,+1939-00-00T00:00:00Z/9,P1326,+1945-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://media.iwm.org.uk/iwm/mediaLib//45/media-45204/large.jpg\">http://media.iwm.org.uk/iwm/mediaLib//45/media-45204/large.jpg</a><div style=\"margin:0.5em\"></div>\n<div class=\"center centered\" style=\"width:auto\">\n<table style=\"width:100%; border:1px solid var(--border-color-notice,black); background:var(--background-color-neutral,#E0E0E0); padding:0; text-align:center; color:inherit\">\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:IWMLondonThumbnail.jpg\" class=\"mw-file-description\" title=\"Image of the exterior main entrance to the Imperial War Museum in London.\"><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/c3/IWMLondonThumbnail.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"54\" class=\"mw-file-element\" data-file-width=\"80\" data-file-height=\"54\"></a></span>\n</td>\n<td>This photograph <a rel=\"nofollow\" class=\"external text\" href=\"https://www.iwm.org.uk/collections/item/object/205202241\">D 26001</a> comes from the collections of the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.iwm.org.uk\">Imperial War Museums</a>.\n</td>\n<td align=\"right\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg\" class=\"mw-file-description\" title=\"Flag of the United Kingdom.\"><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/120px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/250px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></a></span>\n</td></tr></tbody></table></div>",
+        "source": "commons-desc-page"
+       },
+       "Permission": {
+        "value": "This image was created and released by the Imperial War Museum on the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.iwm.org.uk/corporate/privacy-copyright/licence\">IWM Non Commercial Licence</a>. The photograph was taken by a member of the forces during their active service duties in the First World War, and became covered by Crown Copyright provisions and so faithful reproductions may be reused under that licence, which is considered expired after 50 years.",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg"
+     }
+    ]
+   },
+   "24351059": {
+    "pageid": 24351059,
+    "ns": 6,
+    "title": "File:The British Cotton Industry- Everyday Life at a British Cotton Mill, Lancashire, England, UK, 1945 D26012.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 75349,
+      "width": 777,
+      "height": 800,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg/500px-The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 400,
+      "thumbheight": 412,
+      "responsiveUrls": {
+       "2": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg/500px-The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "decoding": "async",
+       "loading": "lazy",
+       "width": 400,
+       "height": 412,
+       "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill%2C_Lancashire%2C_England%2C_UK%2C_1945_D26012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_British_Cotton_Industry-_Everyday_Life_at_a_British_Cotton_Mill,_Lancashire,_England,_UK,_1945_D26012.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24351059",
+      "extmetadata": {
+       "DateTime": {
+        "value": "2013-01-30 23:31:59",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+       },
+       "ObjectName": {
+        "value": "The British Cotton Industry- Everyday Life at a British Cotton Mill, Lancashire, England, UK, 1945 D26012",
+        "source": "mediawiki-metadata"
+       },
+       "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+       },
+       "Categories": {
+        "value": "Cotton|British occupation of Egypt 1882-1953|Images uploaded by F\u00e6|Artworks without Wikidata item|UK Government artistic works|PD-scan (PD-UKGov)|1945 in Lancashire|Cotton industry in the United Kingdom|Ministry of Information Second World War Official Collection|Industry in the United Kingdom in World War II",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Artist": {
+        "value": "<div class=\"fn value\">\nMinistry of Information Photo Division Photographer</div>",
+        "source": "commons-desc-page"
+       },
+       "ImageDescription": {
+        "value": "<i>The British Cotton Industry- Everyday Life at a British Cotton Mill, Lancashire, England, UK, 1945</i><br>\nA cotton worker draws-in by hand at a cotton mill, somewhere in Lancashire.  As this yarn is finer Egyptian cotton, it is not possible to use a machine for drawing-in, as is used for the cheaper, American cotton.",
+        "source": "commons-desc-page"
+       },
+       "DateTimeOriginal": {
+        "value": "1945<div style=\"display: none;\">date QS:P571,+1945-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://media.iwm.org.uk/iwm/mediaLib//45/media-45207/large.jpg\">http://media.iwm.org.uk/iwm/mediaLib//45/media-45207/large.jpg</a><div style=\"margin:0.5em\"></div>\n<div class=\"center centered\" style=\"width:auto\">\n<table style=\"width:100%; border:1px solid var(--border-color-notice,black); background:var(--background-color-neutral,#E0E0E0); padding:0; text-align:center; color:inherit\">\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:IWMLondonThumbnail.jpg\" class=\"mw-file-description\" title=\"Image of the exterior main entrance to the Imperial War Museum in London.\"><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/c3/IWMLondonThumbnail.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"54\" class=\"mw-file-element\" data-file-width=\"80\" data-file-height=\"54\"></a></span>\n</td>\n<td>This photograph <a rel=\"nofollow\" class=\"external text\" href=\"https://www.iwm.org.uk/collections/item/object/205202244\">D 26012</a> comes from the collections of the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.iwm.org.uk\">Imperial War Museums</a>.\n</td>\n<td align=\"right\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg\" class=\"mw-file-description\" title=\"Flag of the United Kingdom.\"><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/120px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/250px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></a></span>\n</td></tr></tbody></table></div>",
+        "source": "commons-desc-page"
+       },
+       "Permission": {
+        "value": "This photograph was scanned and released by the Imperial War Museum on the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.iwm.org.uk/corporate/privacy-copyright/licence\">IWM Non Commercial Licence</a>. The image was catalogued by the IWM as created for the Ministry of Information, which was dissolved in 1946. Consequently the image and faithful reproductions are considered Crown Copyright, now expired as the photograph was taken prior to 1 June 1957.",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg"
+     }
+    ]
+   }
+  }
+ }
+}

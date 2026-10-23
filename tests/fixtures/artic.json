@@ -1,0 +1,51 @@
+{
+ "preference": null,
+ "pagination": {
+  "total": 133169,
+  "limit": 3,
+  "offset": 0,
+  "total_pages": 44390,
+  "current_page": 1
+ },
+ "data": [
+  {
+   "_score": 72.35856,
+   "id": 6581,
+   "title": "Plate from the Duke of Clarence Service",
+   "date_start": 1787,
+   "artist_display": "Worcester Porcelain Factory (Flight Period, 1783-1792)\nWorcester, England, founded 1751",
+   "is_public_domain": true,
+   "image_id": "b03497a2-2556-58b1-c107-54de7bdaf25f"
+  },
+  {
+   "_score": 62.923817,
+   "id": 6673,
+   "title": "Bottle",
+   "date_start": 1674,
+   "artist_display": "De Grieksche A (The Greek A) Factory\nDelft, Netherlands, 1658-1811\nSamuel van Eenhoorn\nDutch, 1655-1686/87",
+   "is_public_domain": true,
+   "image_id": "a86294d6-b6ed-3fe1-706b-dd7c06c85365"
+  },
+  {
+   "_score": 58.344315,
+   "id": 15079,
+   "title": "Teacup, Coffee Cup, and Saucer",
+   "date_start": 1765,
+   "artist_display": "Worcester Porcelain Factory (Warmstry House Period, 1751\u20131783)\nWorcester, England, founded 1751",
+   "is_public_domain": true,
+   "image_id": "53d2920d-a144-a210-6b77-11bdd4af5f7e"
+  }
+ ],
+ "info": {
+  "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+  "license_links": [
+   "https://creativecommons.org/publicdomain/zero/1.0/",
+   "https://www.artic.edu/terms"
+  ],
+  "version": "1.16"
+ },
+ "config": {
+  "iiif_url": "https://www.artic.edu/iiif/2",
+  "website_url": "https://www.artic.edu"
+ }
+}

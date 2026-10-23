@@ -1,0 +1,39 @@
+{
+ "responseHeader": {
+  "status": 0,
+  "QTime": 33,
+  "params": {
+   "query": "collection:prelinger AND (text:propaganda OR text:propaganda OR text__reviews:propaganda)",
+   "qin": "collection:prelinger AND propaganda",
+   "fields": "identifier,title,licenseurl,date,mediatype,description",
+   "wt": "json",
+   "rows": 3,
+   "start": 0
+  }
+ },
+ "response": {
+  "numFound": 296,
+  "start": 0,
+  "docs": [
+   {
+    "description": "Content warning: This film contains brief still images of serious bodily harm and death. A history of Palestinian resistance to imperialism and occupation in the twentieth century, leading up to the Battle of Karameh in 1968. Voiceover in English; title cards in French, including: POUR NOUS POUR NOTRE PEUPLE ON DIRA TOUJOURS: AVANT KARAME APRES KARAME (translation: FOR US FOR OUR PEOPLE WE WILL ALWAYS SAY: BEFORE KARAME; AFTER KARAME)",
+    "identifier": "200775_Palestine",
+    "mediatype": "movies",
+    "title": "Palestine"
+   },
+   {
+    "description": "The film is a historical documentary that focuses on Canada's role and contribution during a major war, likely World War II. It details how Canada transformed its industry and society to support the war effort. The documentary highlights the initial lack of preparedness, followed by a rapid mobilization and expansion of the Canadian military and industrial capabilities. Key points include the transition of Canadian industries to produce war materials, the significant increase in the production of military vehicles, weapons, and other war supplies, and the involvement of Canadian citizens in the war effort. The film also touches on the sacrifices made by Canadian families, the challenges faced in gearing up for the war, and the nation's commitment to supporting its allies. The documentary serves as a tribute to Canada's significant role in the war, showcasing the nation's resilience, determination, and contribution to the global fight against the enemy forces. It emphasizes the unity and collective effort of the Canadian people during a time of crisis.",
+    "identifier": "0331_Thousand_Days_The_09_11_40_00",
+    "mediatype": "movies",
+    "title": "Thousand Days, The"
+   },
+   {
+    "date": "1942-01-01T00:00:00Z",
+    "description": "\"The success of the Army on the firing line depends upon the success of labor and industry on the production line. And the security of American industry and labor depends upon the success of the American Army. An Axis victory means the enslavement of both labor and industry. The film shows what happened in Vienna, Czechoslovakia, Poland, Holland, and France: cities destroyed, industry taken over by the Nazis, labor conscripted, men, women, and children subjected to terror and starvation. The Axis has tremendous resources, but so have the Allies -- they have the mills of Krupp, we have the mills of Birmingham; they have the Rumanian oil, we have the oil of Oklahoma, Texas, and California. This war is industry's war, labor's war to outproduce the Axis. From the production line to the firing line must come tanks and planes and guns for victory.\" (Indiana) \"This is one of the best films on the war effort, as it makes a positive appeal for unity, both between management and labor, and between civilian war workers and the armed forces. There is an artistic quality in the rhythm and contrasts of the images. Suitable for a variety of applications in school and community.\" (School Management) Contrasts America's Free Industrial Labor Force with the subjugation of laborers in countries overtaken by Axis powers. Stresses the fact that World War II is the war of industry and labor. Skeletal entry",
+    "identifier": "0837_Arm_Behind_the_Army_The_18_01_00_00",
+    "mediatype": "movies",
+    "title": "Arm Behind the Army, The"
+   }
+  ]
+ }
+}

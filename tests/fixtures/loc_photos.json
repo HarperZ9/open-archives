@@ -1,0 +1,410 @@
+{
+ "results": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2011645311/",
+    "http://www.loc.gov/item/2011645311/",
+    "http://www.loc.gov/pictures/item/2011645311/",
+    "https://www.loc.gov/pictures/collection/cph/item/2011645311/",
+    "http://www.loc.gov/pictures/collection/cph/item/2011645311/",
+    "http://www.loc.gov/resource/cph.3c39496/",
+    "https://hdl.loc.gov/loc.pnp/cph.3c39496",
+    "http://lccn.loc.gov/2011645311"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "jackson, william henry"
+   ],
+   "date": "1884-01-01",
+   "dates": [
+    "1884"
+   ],
+   "description": [
+    "1 photographic print. | Photograph shows cotton mill and surrounding buildings in Qu\u00e9retero, Mexico, with mountains in the background."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T19:58:53.246Z",
+   "group": [
+    "cph",
+    "catalog-split-08",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-08",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2011645311/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496r.jpg#h=512&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496v.jpg#h=819&w=1024"
+   ],
+   "index": 1,
+   "item": {
+    "call_number": "LOT 3002, v. 2 [item] [P&P]",
+    "contributors": [
+     "Jackson, William Henry, 1843-1942 photographer."
+    ],
+    "control_number": "2011645311",
+    "created": "2016-04-20T06:28:37Z",
+    "created_published": "[between 1884 and 1885]",
+    "created_published_date": "[between 1884 and 1885]",
+    "creators": [
+     {
+      "link": "https://www.loc.gov/pictures/related/?fi=name&q=Jackson%2C%20William%20Henry%2C%201843-1942&co=cph",
+      "role": "photographer",
+      "title": "Jackson, William Henry, 1843-1942"
+     }
+    ],
+    "date": "[between 1884 and 1885]",
+    "digital_id": [
+     "cph 3c39496 //hdl.loc.gov/loc.pnp/cph.3c39496"
+    ],
+    "display_offsite": true,
+    "format": [
+     "still image"
+    ],
+    "formats": [
+     {
+      "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1880-1890.&co=cph",
+      "title": "Photographic prints--1880-1890."
+     }
+    ],
+    "genre": [
+     "Photographic prints--1880-1890"
+    ],
+    "id": "2011645311",
+    "language": [
+     "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2011645311/",
+    "location": [
+     "Mexico--Qu\u00e9retero"
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2011645311/marc/",
+    "medium": [
+     "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mediums": [
+     "1 photographic print."
+    ],
+    "modified": "2016-04-20T06:28:37Z",
+    "notes": [
+     "Title from item.",
+     "In album: Mexico, v. 2.",
+     "No. 08522.",
+     "Gift; Colorado Historical Society; 1949.",
+     "Forms part of the Detroit Publishing Company Collection.",
+     "Original negative may be available: LC-D418-8522"
+    ],
+    "other_control_numbers": [
+     "16670621"
+    ],
+    "place": [
+     {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Mexico--Qu%C3%A9retero&co=cph",
+      "longitude": "",
+      "title": "Mexico--Qu\u00e9retero"
+     }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-USZ62-139496 (b&w film copy neg.)",
+    "resource_links": [
+     "//hdl.loc.gov/loc.pnp/cph.3c39496"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496r.jpg",
+    "sort_date": "1884",
+    "source_created": "2011-02-28T00:00:00Z",
+    "source_modified": "2011-02-28T17:03:53Z",
+    "subject_headings": [
+     "Mills--Mexico--Qu\u00e9retero--1880-1890.",
+     "Cotton industry--Mexico--Qu\u00e9retero--1880-1890.",
+     "Mexico--Qu\u00e9retero"
+    ],
+    "subjects": [
+     "Mills--Mexico--Qu\u00e9retero--1880-1890",
+     "Cotton industry--Mexico--Qu\u00e9retero--1880-1890"
+    ],
+    "summary": "Photograph shows cotton mill and surrounding buildings in Qu\u00e9retero, Mexico, with mountains in the background.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496_150px.jpg",
+    "title": "Queretero, the Hercules Cotton Mill"
+   },
+   "language": [
+    "english"
+   ],
+   "location": [
+    "mexico",
+    "qu\u00e9retero"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "http://www.loc.gov/item/16670621",
+    "2011-02-28t17:03:53",
+    "2011645311"
+   ],
+   "number_former_id": [
+    "http://www.loc.gov/item/16670621"
+   ],
+   "number_lccn": [
+    "2011645311"
+   ],
+   "number_source_modified": [
+    "2011-02-28t17:03:53"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "prints & photographs online catalog (library of congress)",
+    "lot 3002",
+    "prints and photographs division",
+    "catalog",
+    "miscellaneous items in high demand"
+   ],
+   "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 3002&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2011645311&st=gallery&sb=call_number#focus"
+   },
+   "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+   "resources": [
+    {
+     "caption": "digital file from b&w film copy neg.",
+     "files": 1,
+     "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39400/3c39496_150px.jpg",
+     "url": "https://www.loc.gov/resource/cph.3c39496/"
+    }
+   ],
+   "shelf_id": "LOT 3002, v. 2 [item] [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "photographic prints",
+    "mexico",
+    "cotton industry",
+    "qu\u00e9retero",
+    "mills"
+   ],
+   "timestamp": "2022-05-02T05:39:52.654Z",
+   "title": "Queretero, the Hercules Cotton Mill",
+   "unrestricted": true,
+   "url": "https://www.loc.gov/item/2011645311/"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "https://www.loc.gov/pictures/item/2012647905/",
+    "http://www.loc.gov/item/2012647905/",
+    "http://www.loc.gov/pictures/item/2012647905/",
+    "https://www.loc.gov/pictures/collection/cph/item/2012647905/",
+    "http://www.loc.gov/pictures/collection/cph/item/2012647905/",
+    "http://www.loc.gov/resource/cph.3a41759/",
+    "http://lccn.loc.gov/2012647905",
+    "https://hdl.loc.gov/loc.pnp/cph.3a41759"
+   ],
+   "campaigns": [],
+   "contributor": [
+    "fenn, hiram n."
+   ],
+   "date": "1907-01-01",
+   "dates": [
+    "1907"
+   ],
+   "description": [
+    "1 photographic print. | Photograph shows exterior view of cotton mill with three men standing in front."
+   ],
+   "digitized": true,
+   "extract_timestamp": "2021-08-24T20:09:12.624Z",
+   "group": [
+    "cph",
+    "catalog-split-04",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-04",
+    "main-catalog"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/item/2012647905/",
+   "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759_150px.jpg#h=100&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759t.gif#h=100&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759r.jpg#h=426&w=640"
+   ],
+   "index": 2,
+   "item": {
+    "call_number": "SSF - Industry -- Textiles [item] [P&P]",
+    "contributors": [
+     "Fenn, Hiram N., publisher."
+    ],
+    "control_number": "2012647905",
+    "created": "2016-04-20T11:13:39Z",
+    "created_published": "[1907]",
+    "created_published_date": "[1907]",
+    "creators": [
+     {
+      "link": "https://www.loc.gov/pictures/related/?fi=name&q=Fenn%2C%20Hiram%20N.&co=cph",
+      "role": "publisher",
+      "title": "Fenn, Hiram N."
+     }
+    ],
+    "date": "[1907]",
+    "digital_id": [
+     "cph 3a41759 //hdl.loc.gov/loc.pnp/cph.3a41759"
+    ],
+    "display_offsite": true,
+    "format": [
+     "still image"
+    ],
+    "formats": [
+     {
+      "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=cph",
+      "title": "Photographic prints--1900-1910."
+     }
+    ],
+    "genre": [
+     "Photographic prints--1900-1910"
+    ],
+    "id": "2012647905",
+    "language": [
+     "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2012647905/",
+    "location": [
+     "Connecticut--Willimantic"
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2012647905/marc/",
+    "medium": [
+     "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mediums": [
+     "1 photographic print."
+    ],
+    "modified": "2016-04-20T11:13:39Z",
+    "notes": [
+     "Additional title on item: Connecticut. Williamantic. Cotton Mills at Williamantic Corporation.",
+     "No. 588.",
+     "Title from item."
+    ],
+    "other_control_numbers": [
+     "17374406"
+    ],
+    "place": [
+     {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Connecticut--Willimantic&co=cph",
+      "longitude": "",
+      "title": "Connecticut--Willimantic"
+     }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-USZ62-41433 (b&w film copy neg.)",
+    "resource_links": [
+     "//hdl.loc.gov/loc.pnp/cph.3a41759"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759r.jpg",
+    "sort_date": "1907",
+    "source_created": "2012-07-05T00:00:00Z",
+    "source_modified": "2012-07-11T09:23:09Z",
+    "subject_headings": [
+     "Willimantic Cotton Mills Corporation.",
+     "Cotton industry--Connecticut--Willimantic--1900-1910.",
+     "Mills--Connecticut--Willimantic--1900-1910.",
+     "Connecticut--Willimantic"
+    ],
+    "subjects": [
+     "Willimantic Cotton Mills Corporation",
+     "Cotton industry--Connecticut--Willimantic--1900-1910",
+     "Mills--Connecticut--Willimantic--1900-1910"
+    ],
+    "summary": "Photograph shows exterior view of cotton mill with three men standing in front.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759_150px.jpg",
+    "title": "Willimantic Cotton Mills Corporation, Willimantic, Conn."
+   },
+   "language": [
+    "english"
+   ],
+   "location": [
+    "connecticut",
+    "willimantic"
+   ],
+   "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+   ],
+   "number": [
+    "2012-07-11t09:23:09",
+    "http://www.loc.gov/item/17374406",
+    "2012647905"
+   ],
+   "number_former_id": [
+    "http://www.loc.gov/item/17374406"
+   ],
+   "number_lccn": [
+    "2012647905"
+   ],
+   "number_source_modified": [
+    "2012-07-11t09:23:09"
+   ],
+   "online_format": [
+    "image"
+   ],
+   "original_format": [
+    "photo, print, drawing"
+   ],
+   "partof": [
+    "miscellaneous items in high demand",
+    "catalog",
+    "prints and photographs division",
+    "prints & photographs online catalog (library of congress)"
+   ],
+   "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2012647905&st=gallery&sb=call_number#focus"
+   },
+   "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+   "resources": [
+    {
+     "caption": "digital file from b&w film copy neg.",
+     "files": 1,
+     "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a41000/3a41700/3a41759_150px.jpg",
+     "url": "https://www.loc.gov/resource/cph.3a41759/"
+    }
+   ],
+   "shelf_id": "SSF - Industry -- Textiles [item] [P&P]",
+   "site": [
+    "pictures",
+    "catalog"
+   ],
+   "subject": [
+    "willimantic",
+    "photographic prints",
+    "cotton industry",
+    "connecticut",
+    "willimantic cotton mills corporation",
+    "mills"
+   ],
+   "timestamp": "2022-05-02T06:06:43.233Z",
+   "title": "Willimantic Cotton Mills Corporation, Willimantic, Conn.",
+   "unrestricted": true,
+   "url": "https://www.loc.gov/item/2012647905/"
+  }
+ ]
+}
